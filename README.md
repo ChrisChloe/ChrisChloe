@@ -10,6 +10,8 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
+- 💻 Frontend Developer
+
 - 🔭 I’m currently working in `Avanade` as `Senior Frontend Developer`
 
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/ChrisChloe)**
@@ -28,8 +30,10 @@
     
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Angular](https://img.shields.io/badge/angular-EE0000.svg?style=for-the-badge&logo=angular&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
     
 - ☁️ Cloud:
   
