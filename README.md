@@ -10,9 +10,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 💻 Frontend Developer
-
-- 🔭 I’m currently working in `Avanade` as `Senior Frontend Developer`
+- 💻 Senior Frontend Developer
 
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/ChrisChloe)**
 
